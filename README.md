@@ -13,3 +13,9 @@ Quizs are from twitter or anywhere I find them
 
 ## Intro To Programming
 ![Pranjal Shukla - Intro to Programming](https://github.com/user-attachments/assets/92448d54-160b-4f3a-ae82-219d0335e74b)
+
+----------------
+
+## Python Cert
+
+![Pranjal Shukla - Python](https://github.com/user-attachments/assets/ac57e978-d8de-4946-bda6-dafa72f5a7a1)
